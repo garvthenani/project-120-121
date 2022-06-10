@@ -1,0 +1,23 @@
+.heading
+{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(255,209,67,1) 0%, rgba(255,145,83,1) 90% ) !important;
+    width: 70%;
+    font-size: 30px;
+} 
+img 
+{
+    width: 50%
+}
+.heading_div
+{
+    background-image: radial-gradient( circle 860px at 11.8% 33.5%,  rgb(209, 255, 4) 0%, rgb(13, 255, 170) 30.5%, rgb(53, 254, 22) 56.1%, rgb(15, 125, 41) 75.6%, rgb(12, 255, 170) 100.2% ) !important;
+    border-radius: 50px;
+}
+.copy_right_footer
+  {
+    bottom: -10;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(to right, rgb(107, 212, 42), rgb(11, 100, 65));
+    color: rgb(0, 0, 0);
+  }
